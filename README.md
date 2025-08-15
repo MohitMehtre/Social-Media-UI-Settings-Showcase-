@@ -17,9 +17,23 @@ Built with **HTML**, **CSS**, and **JavaScript**, this UI/UX demo lets users exp
 
 ## 📸 Preview
 
-| 🌞 Light Mode | 🌘 Dim Mode | 🌚 Lights Out Mode | 🎨 Settings Modal |
-|--------------|-------------|-------------------|-------------------|
-| ![Light Mode](./assets/light-mode.png) | ![Dim Mode](./assets/dim-mode.png) | ![Lights Out](./assets/lights-out.png) | ![Settings Modal](./assets/settings-modal.png) |
+### 🌞 Light Mode  
+![Light Mode](./assets/light-mode.png)
+
+---
+
+### 🌘 Dim Mode  
+![Dim Mode](./assets/dim-mode.png)
+
+---
+
+### 🌚 Lights Out Mode  
+![Lights Out](./assets/lights-out.png)
+
+---
+
+### 🎨 Settings Modal  
+![Settings Modal](./assets/settings-modal.png)
 
 ---
 
@@ -40,13 +54,6 @@ Built with **HTML**, **CSS**, and **JavaScript**, this UI/UX demo lets users exp
 - CSS3  
 - JavaScript (Vanilla JS)  
 - Shadcn UI (for styling components)
-
----
-
-## 📄 License
-
-All rights reserved.  
-This project is **not open-source**. Please do not copy, redistribute, or modify without explicit permission.
 
 ---
 
